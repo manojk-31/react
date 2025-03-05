@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 
-const LOGIN_ID = "user123"; // Constant login ID
+const LOGIN_ID = "user123"; 
 
 export default function App() {
   const [inputId, setInputId] = useState("");
